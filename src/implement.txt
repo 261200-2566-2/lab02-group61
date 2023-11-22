@@ -1,0 +1,20 @@
+1.give a complete description of Lab02.AirPurifier class
+instance variables
+-serialNo คือตัวเลขที่ติดมากับเครื่องใช้บ่งบอกถึงวันที่ผลิต
+-model คือชื่อรุ่นของผลิตภัณฑ์
+-color สีของผลิตภัณฑ์
+instance methods
+-Dustmeasure เรียกใช้เพื่อวัดค่าฝุ่น
+-PowerOn เปิดเครื่อง
+-PowerOff ปิดเครื่อง
+class variables
+-totalAirPurifiers คือจำนวนรวมของอากาศที่สามารถฟอกได้
+class methods
+getTotalAirPurifiers() คือคลาสที่คืนค่าจำนวนของอากาศที่ฟอกได้
+2.for each method proposed above, how do you plan to implement it?
+give an overview of the computation
+what's needed as inputs?
+-PowerOn/Off
+what's to be returned?
+-Dustdensityvalue
+-totalAirPurifiers
