@@ -1,6 +1,5 @@
 class Lab02 {
     public static void main(String[] args) {
-        // Create AirPurifier objects
         AirPurifier airPurifier1 = new AirPurifier();
         AirPurifier airPurifier2 = new AirPurifier();
 
