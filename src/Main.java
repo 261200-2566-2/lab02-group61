@@ -9,7 +9,6 @@ class Lab02 {
         airPurifier2.powerOff();
     }
 
-
     public static class AirPurifier {
             public int serialNo;
             public String model;
